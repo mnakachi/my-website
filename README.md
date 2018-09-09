@@ -6,6 +6,6 @@ Nothing to see here at all.
 
 __Nothing__ is happening here.
 
-# Head 3
+# Header 3
 
-## Another header
+## Header 4
