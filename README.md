@@ -6,6 +6,6 @@ Nothing to see here at all.
 
 __Nothing__ is happening here.
 
-# Header 3
+## Getting Started
 
-## Header 4
+To get started, just 'clone' this repository.
